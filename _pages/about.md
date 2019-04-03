@@ -12,4 +12,4 @@ redirect_from:
 
 ## Discussions
 
-[IIOC 2019 - Rising Stars]https://charliemurry.github.io/files/discussions/slides.html
+[IIOC 2019 - Rising Stars](https://charliemurry.github.io/files/discussions/slides.html)
