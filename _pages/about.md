@@ -13,3 +13,5 @@ redirect_from:
 ## Discussions
 
 [IIOC 2019 - Rising Stars](https://charliemurry.github.io/files/discussions/slides.html)
+
+[QME 2019 Discussion](https://charliemurry.github.io/files/discussions/slides_MurryQME2019.html)
