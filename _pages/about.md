@@ -10,6 +10,10 @@ redirect_from:
 
 ### Welcome to my website.
 
+## Presentations
+
+[The Evolution of Market Power in the US Auto Industry](https://charliemurry.github.io/files/discussions/slides_GMY_SEA.html)
+
 ## Discussions
 
 [IIOC 2019 - Rising Stars](https://charliemurry.github.io/files/discussions/slides.html)
