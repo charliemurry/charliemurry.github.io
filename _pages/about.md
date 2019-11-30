@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Charlie Murry"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## Charles Murry  
-### assistant professor - economics -  boston college
 
 
 I am currently an Assistant Professor of Economics at Boston College in Chestnut Hill, MA. My research interests are in industrial organization. In particular, I study how automobile retail markets are organized and the implications of regulations and dealer and manufacturer market power on consumer welfare. I also have interests in issues of market power and consumer welfare in airline markets.
@@ -21,8 +18,9 @@ Boston College
 324 Maloney Hall  
 140 Commonwealth Ave.  
 Chestnut Hill, MA 02467  
-<!--
-## Presentations
+
+
+<!--## Presentations
 
 [The Evolution of Market Power in the US Auto Industry](https://charliemurry.github.io/files/discussions/slides_GMY_SEA.html)
 

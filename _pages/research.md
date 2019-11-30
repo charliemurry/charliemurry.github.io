@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 
-### Title of Paper
+#### [The Effect of Retail Competition on Relationship-specific Investments: Evidence from New Car Advertising](https://www.sciencedirect.com/science/article/pii/S0167718718300341) 
+International Journal of Industrial Organization, Volume 59, 2018. [working paper version]
 
 #### Abstract
 
