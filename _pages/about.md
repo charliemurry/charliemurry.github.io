@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Charles Murry"
+title: "Charles Murry  assistant professor | economics | boston college"
 excerpt: "About me"
 author_profile: true
 redirect_from:
