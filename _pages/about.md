@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 ### About
-
 I am currently an Assistant Professor of Economics at Boston College in Chestnut Hill, MA. My research interests are in industrial organization. In particular, I study how automobile retail markets are organized and the implications of regulations and dealer and manufacturer market power on consumer welfare. I also have interests in issues of market power and consumer welfare in airline markets.
 ​
 I was formerly an Assistant Professor of Economics at Penn State University and I received my Ph.D. in Economics from the University of Virginia after graduating from the University of Delaware.

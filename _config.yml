@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Murry "
+title                    : "Charles Murry"
 title_separator          : "-"
 name                     : &name "Charlie Murry"
 description              : &description "assistant professor of economics | boston college"
-url                      : https://charliemurry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://charliemurry.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charliemurry/charliemurry.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
