@@ -16,7 +16,7 @@ author_profile: true
 
 [The Effect of Retail Competition on Relationship-specific Investments: Evidence from New Car Advertising](https://www.sciencedirect.com/science/article/pii/S0167718718300341) *International Journal of Industrial Organization*, Volume 59, 2018.
 
-[working paper version](https://murryecon.weebly.com/uploads/7/8/9/1/78915010/murry_car-ads_submission.pdf)
+<!-- [working paper version](https://murryecon.weebly.com/uploads/7/8/9/1/78915010/murry_car-ads_submission.pdf) -->
 
 #### Summary
 
@@ -29,7 +29,7 @@ I estimate that greater intra-brand dealer competition is associated with lower 
 
 [Consumer Search and Automobile Dealer Co-Location](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3307) with Yiyi Zhou.  *Forthcoming, Management Science*.
 
-[working paper version](https://murryecon.weebly.com/uploads/7/8/9/1/78915010/murryzhouagglomjuly2018.pdf)
+<!-- [working paper version](https://murryecon.weebly.com/uploads/7/8/9/1/78915010/murryzhouagglomjuly2018.pdf) -->
 
 #### Summary
 
