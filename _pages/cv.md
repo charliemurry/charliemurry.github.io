@@ -9,28 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
-* 2020 - present Wieler Family Assistant Professor of Economics, Boston College
-* 2018 - present, Assistant Professor of Economics, Boston College
-* 2014 - 2018, Assistant Professor of Economics, The Pennsylvania State University
-* 2016 - 2017, Strumpf Early Career Assistant Professor of Economics, The Pennsylvania State University
-
-
-
 Education
 ======
 * Ph.D. in Economics, University of Virginia, 2014
 * M.A. in Economics, University of Virginia, 2010
-* B.S in Economics, University of Delaware, 2006
+* B.S. in Economics, University of Delaware, 2006
 
+Employment
+======
+* Wieler Family Sesquencentenial Assistant Professor, Boston College, 2020-present
+* Assistant Professor of Economics, Boston College, 2020-present
+* Assistant Professor of Economics, The Pennsylvania State University, 2014-2018
+* Strumpf Early Career Assistant Professor of Economics, The Pennsylvania State University, 2016-2017
 
-Publications and Working Papers
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Working Papers
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -38,10 +36,7 @@ Talks
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* PhD Empirical Methods
+* PhD IO
+* Undergraduate Sports Economics
+* Undergraduate IO

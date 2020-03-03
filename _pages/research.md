@@ -18,9 +18,9 @@ author_profile: true
 
 <!-- [working paper version](https://murryecon.weebly.com/uploads/7/8/9/1/78915010/murry_car-ads_submission.pdf) -->
 
-#### Summary
+<!-- #### Summary -->
 
-I estimate that greater intra-brand dealer competition is associated with lower dealer advertising. US brand manufacturers decrease advertising with an additional same-brand dealer, but there is zero average effect for non-US brand manufacturers. My empirical strategy is to instrument for local competition with differences in historical state dealer regulations and brand penetration.
+**Summary** I estimate that greater intra-brand dealer competition is associated with lower dealer advertising. US brand manufacturers decrease advertising with an additional same-brand dealer, but there is zero average effect for non-US brand manufacturers. My empirical strategy is to instrument for local competition with differences in historical state dealer regulations and brand penetration.
 
 <!-- {% for post in site.research reversed %}
   {% include archive-single.html %}
@@ -52,7 +52,7 @@ We estimate a structural model of consumer search for spatially differentiated p
 
 "The Price Theory and Empirics of Inventory Management," with Fei Li, Can Tian, and Yiyi Zhou.
 
-"Contract Regulations and Ownership Structure in Franchising," with Peter Newberry
+"Local Effects of Franchise Contract Regulations," with Peter Newberry
 
 "Dynamic Pricing and Strategic Delay in the Market for Used Cars," with Karl Schurter
 
