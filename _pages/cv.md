@@ -22,7 +22,7 @@ Employment
 * Assistant Professor of Economics, The Pennsylvania State University, 2014-2018
 * Strumpf Early Career Assistant Professor of Economics, The Pennsylvania State University, 2016-2017
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -32,7 +32,7 @@ Working Papers
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Teaching
 ======
