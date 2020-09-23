@@ -58,3 +58,7 @@ Consumer search and automobile dealer colocation
 (with Gary Biglaiser, Fei Li, and Yiyi Zhou)  
 The RAND Journal of Economics, 51: 905-933.  
 [Working Paper](http://charliemurry.github.io/files/cardealers_2020.pdf)
+
+ [The Economics of Retail Markets for New and Used Cars](https://works.bepress.com/henry_schneider/12/)
+ (with Henry Schneider)
+ Handbook on the Economics of Retail and Distribution Emek Basker (ed.), Edward Elgar Publishers, 2016.
