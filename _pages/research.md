@@ -11,7 +11,7 @@ author_profile: true
 
 ### Papers in the review process
 
-[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](/files/car_ads_vertical_2017.pdf), 2017.  
+[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.  
 Revision requested @ *AEJ: Microeconomics*  
 
 [Market Structure and Competition in Airline Markets](/files/CMT_2020.pdf), 2020.  
