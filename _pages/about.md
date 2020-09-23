@@ -20,21 +20,21 @@ Email: charles.murry@bc.edu
 Web: charliemurry.github.io  
 
 
-### Current Research In Progress  
-(see research page for more details)
+## Current Research In Progress  
+*see research page for more details*
 
-Market Structure and Competition in Airline Markets, with Federico Ciliberto and Elie Tamer.  
+**Market Structure and Competition in Airline Markets**  
+(with Federico Ciliberto and Elie Tamer)  
+*Summary: We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger.*  
 
-Summary: We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger.  
+**Price Discrimination in International Airline Markets**  
+(with Gaurab Aryal and Jonathan W. Williams)  
+*Summary: Using a model of dynamic pricing and consumer screening, we estimate that incomplete information in airline pricing leads to a 20% gap between current welfare and first-best welfare.*
 
-Price Discrimination in International Airline Markets, with Gaurab Aryal and Jonathan W. Williams.  
+“**The Evolution of Market Power in the US Auto Industry**   
+(with Paul Grieco and Ali Yurukoglu)  
+*Summary: Markups in the Auto Industry gradually decreased over the last 40 years.*
 
-Summary: Using a model of dynamic pricing and consumer screening, we estimate that incomplete information in airline pricing leads to a 20% gap between current welfare and first-best welfare.
-
-“​The Evolution of Market Power in the US Auto Industry,” with Paul Grieco and Ali Yurukoglu.
-
-Summary: Markups in the Auto Industry gradually decreased over the last 40 years.
-
-“Local Effects of Franchise Contract Regulations,” with Peter Newberry  
-
-Summary: States that have laws that restrict franchisors from terminating franchisee contracts have fewer franchises.  
+**Local Effects of Franchise Contract Regulations**   
+(with Peter Newberry)  
+*Summary: States that have laws that restrict franchisors from terminating franchisee contracts have fewer franchises.*  
