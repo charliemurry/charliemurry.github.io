@@ -11,20 +11,20 @@ author_profile: true
 
 ### Papers in the review process
 
-[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.  
+[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](/files/car_ads_vertical_2017.pdf), 2017.  
 Revision requested @ *AEJ: Microeconomics*  
 
-[Market Structure and Competition in Airline Markets](charliemurry.github.io/files/CMT_2020.pdf), 2020.  
+[Market Structure and Competition in Airline Markets](/files/CMT_2020.pdf), 2020.  
 (with Federico Ciliberto and Elie Tamer)  
 3rd round R&R @ *Journal of Political Economy*  
 Appendix
 
-​[Price Discrimination in International Airline Markets](charliemurry.github.io/files/airline_pd_nov2018.pdf), 2019.  
+​[Price Discrimination in International Airline Markets](/files/airline_pd_nov2018.pdf), 2019.  
 (with Gaurab Aryal and Jonathan W. Williams)  
 Reject&R @ *American Economic Review*  
-[slides](charliemurry.github.io/files/airline_pd_nov2018_slides.pdf)  
+[slides](/files/airline_pd_nov2018_slides.pdf)  
 
-[Local Effects of Franchise Contract Regulations](charliemurry.github.io/files/termination_laws_jan2019.pdf), 2020.  
+[Local Effects of Franchise Contract Regulations](/files/termination_laws_jan2019.pdf), 2020.  
 (with Peter Newberry)  
 Revision requested from *The Journal of Law and Economics*  
 
@@ -51,7 +51,7 @@ Dynamic Pricing and Strategic Delay in the Market for Used Cars
 Consumer search and automobile dealer colocation  
 (with Yiyi Zhou)  
 *Management Science* 66, no. 5 (2020): 1909-1934.  
-[Working Paper Version](charliemurry.github.io/files/dealer_agglomeration_2018.pdf)   
+[Working Paper Version](/files/dealer_agglomeration_2018.pdf)   
 
 ​​
 [Intermediaries and product quality in used car markets.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1756-2171.12344)  
