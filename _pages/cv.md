@@ -10,24 +10,25 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D. in Economics, University of Virginia, 2014
 * M.A. in Economics, University of Virginia, 2010
 * B.S. in Economics, University of Delaware, 2006
 
 Employment
-======
+------
 2020 - present, Wieler Family Assistant Professor in the Morrissey College of Arts and Sciences  
 
 2018 - present, Assistant Professor of Economics, Boston College  
 
-2014 - 2018, Assistant Professor of Economics, The Pennsylvania State University  
+2014 - 2018, Assistant Professor of Economics, The Pennsylvania State University   
+
 ​
 2016 - 2017, Strumpf Early Career Assistant Professor of Economics, The Pennsylvania State University
 
 
 Publications
-======
+------
 [The Effect of Retail Competition on Relationship-specific Investments: Evidence from New Car Advertising](https://www.sciencedirect.com/science/article/pii/S0167718718300341)  
 *International Journal of Industrial Organization*, Volume 59, 2018.  
 
@@ -42,13 +43,13 @@ Consumer search and automobile dealer colocation
 
 
 Teaching
-======
-**Boston College**   
+------
+*Boston College*   
 Industrial Organization (PhD)  
 Empirical Methods in Applied Microeconomics (PhD)  
 Economics of Sports (undergraduate)  
 
-**Penn State University**  
+*Penn State University*  
 Industrial Organization (undergraduate)  
 Industrial Organization (PhD)  
 Empirical Methods in Economics (PhD)  
