@@ -46,7 +46,7 @@ Dynamic Pricing and Strategic Delay in the Market for Used Cars
 
 [The Effect of Retail Competition on Relationship-specific Investments: Evidence from New Car Advertising](https://www.sciencedirect.com/science/article/pii/S0167718718300341)  
 *International Journal of Industrial Organization*, Volume 59, 2018.  
-[Working Paper Version](http://charliemurry.github.io/files/dealer_ads_ijio.odf)
+[Working Paper Version](http://charliemurry.github.io/files/dealer_ads_IJIO.pdf)
 
 Consumer search and automobile dealer colocation  
 (with Yiyi Zhou)  
