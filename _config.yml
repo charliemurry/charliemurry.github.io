@@ -74,7 +74,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google: gtag('config','UA-179276854-1');
+  google: 
     tracking_id          : "UA-179276854-1"
 
 
