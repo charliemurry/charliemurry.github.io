@@ -14,8 +14,8 @@ author_profile: true
 [Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.
 Revision requested @ *AEJ: Microeconomics*
 
-[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020. NEW VERSION!  
-(with Federico Ciliberto and Elie Tamer)
+[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020. NEW VERSION!
+(with Federico Ciliberto and Elie Tamer)  
 3rd round R&R @ *Journal of Political Economy*
 Appendix
 
