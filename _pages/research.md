@@ -15,9 +15,9 @@ author_profile: true
 Revision requested @ *AEJ: Microeconomics*
 
 [Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020. NEW VERSION!
-(with Federico Ciliberto and Elie Tamer)  
+(with Federico Ciliberto and Elie Tamer)
 3rd round R&R @ *Journal of Political Economy*
-Appendix
+[Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)
 
 ​[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_nov2018.pdf), 2019.
 (with Gaurab Aryal and Jonathan W. Williams)
