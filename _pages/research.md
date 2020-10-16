@@ -26,7 +26,7 @@ Reject&R @ *American Economic Review*
 
 [Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf), 2020.
 (with Peter Newberry)
-Revision requested from *The Journal of Law and Economics*
+Revision requested from *The Journal of Law and Economics*  
 
 
 ### Drafts and Ongoing Projects
