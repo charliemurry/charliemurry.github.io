@@ -24,18 +24,18 @@ Web: charliemurry.github.io
 ## Current Research In Progress
 *see research page for more details*
 
-**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION*  
-(with Federico Ciliberto and Elie Tamer)
+**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION*    
+(with Federico Ciliberto and Elie Tamer)  
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*
 
-**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_nov2018.pdf)**
-(with Gaurab Aryal and Jonathan W. Williams)
+**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_nov2018.pdf)**  
+(with Gaurab Aryal and Jonathan W. Williams)  
 **Summary:** *Using a model of dynamic pricing and consumer screening, we estimate that incomplete information in airline pricing leads to a 20% gap between current welfare and first-best welfare.*
 
-**The Evolution of Market Power in the US Auto Industry**
-(with Paul Grieco and Ali Yurukoglu)
+**The Evolution of Market Power in the US Auto Industry**  
+(with Paul Grieco and Ali Yurukoglu)  
 **Summary:** *Markups in the Auto Industry gradually decreased over the last 40 years, even though prices have risen substantially.*
 
-**[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)**
-(with Peter Newberry)
+**[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)**  
+(with Peter Newberry)  
 **Summary:** *States that have laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
