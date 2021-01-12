@@ -22,7 +22,7 @@ Web: charliemurry.github.io
 
 
 ## Current Research In Progress
-*see research page for more details*
+*see research page for more details*  
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION*  
 (with Federico Ciliberto and Elie Tamer)  
