@@ -41,6 +41,6 @@ accepted at *Journal of Political Economy*
 (with Peter Newberry)  
 **Summary:** *States that have laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
 
-[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf) NEW PAPER!!  
+**[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf) NEW PAPER!!**  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 **Summary:** *Inventory management can explain price dispersion because intermediaries/retailers adjust prices to manage inventory. We propose an equilibrium search model and calibrate it to data from the used car industry. Price dispersion generated from inventory management represents roughly 5 to 45 percent of observed price dispersion.*  
