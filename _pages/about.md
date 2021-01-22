@@ -21,7 +21,7 @@ Email: charles.murry@bc.edu
 Web: charliemurry.github.io  
 
 
-## Current Research In Progress
+## Current Research
 *see research page for more details*  
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION*  
