@@ -40,3 +40,7 @@ accepted at *Journal of Political Economy*
 **[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)**  
 (with Peter Newberry)  
 **Summary:** *States that have laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
+
+[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)  
+(with Fei Li, Can Tan, and Yiyi Zhou)  
+**Summary:** *We present an equilibrium search model with dynamic inventory and revenue management. Intermediaries purchase from a wholesale market, hold inventory, and sell to buyers. The presence of search frictions creates demand uncertainty and makes instantaneous replenishment impossible. Intermediaries use retail and wholesale prices to manage inventory. We apply the model to the used car industry and find that price dispersion generated from inventory management represents roughly 5 to 45 percent of observed price dispersion.*  

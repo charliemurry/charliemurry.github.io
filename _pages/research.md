@@ -36,7 +36,7 @@ The RAND Journal of Economics, 51: 905-933.
 Handbook on the Economics of Retail and Distribution Emek Basker (ed.), Edward Elgar Publishers, 2016.  
 
 
-### Papers in the review process
+### Completed papers in the review process
 
 [Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.  
 Revision requested @ *AEJ: Microeconomics*  
@@ -50,15 +50,15 @@ Reject&R @ *American Economic Review*
 (with Peter Newberry)  
 Revision requested from *The Journal of Law and Economics*  
 
+[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)  
+(with Fei Li, Can Tian, and Yiyi Zhou)  
+
 
 ### Drafts and Ongoing Projects
 
 ​The Evolution of Market Power in the US Auto Industry  
 (with Paul Grieco and Ali Yurukoglu)  
 [slides from 2020ASSA](http://charliemurry.github.io/files/carmarkups_aea_2020.pdf)  
-
-The Price Theory and Empirics of Inventory Management
-(with Fei Li, Can Tian, and Yiyi Zhou)  
 
 Dynamic Pricing and Strategic Delay in the Market for Used Cars
 (with Karl Schurter)  
