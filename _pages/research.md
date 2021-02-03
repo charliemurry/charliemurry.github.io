@@ -19,17 +19,17 @@ conditionally accepted @ *Journal of Political Economy*
 
 [Intermediaries and product quality in used car markets.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1756-2171.12344)  
 (with Gary Biglaiser, Fei Li, and Yiyi Zhou)  
-The RAND Journal of Economics, 51: 905-933.  
+The RAND Journal of Economics, 51, no. 3 (2020): 905-933.  
 [Working Paper](http://charliemurry.github.io/files/cardealers_2020.pdf)  
 
 [Consumer search and automobile dealer colocation](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3307)  
 (with Yiyi Zhou)  
-*Management Science* 66, no. 5 (2020): 1909-1934.
-[Working Paper Version](http://charliemurry.github.io/files/dealer_agglomeration_2018.pdf)
+*Management Science* 66, no. 5 (2020): 1909-1934.  
+[Working Paper](http://charliemurry.github.io/files/dealer_agglomeration_2018.pdf)
 
 [The Effect of Retail Competition on Relationship-specific Investments: Evidence from New Car Advertising](https://www.sciencedirect.com/science/article/pii/S0167718718300341)  
 *International Journal of Industrial Organization*, Volume 59, 2018.  
-[Working Paper Version](http://charliemurry.github.io/files/dealer_ads_IJIO.pdf)  
+[Working Paper](http://charliemurry.github.io/files/dealer_ads_IJIO.pdf)  
 
 [The Economics of Retail Markets for New and Used Cars](https://works.bepress.com/henry_schneider/12/)  
 (with Henry Schneider)  
