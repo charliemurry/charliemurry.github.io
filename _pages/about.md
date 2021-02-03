@@ -24,23 +24,23 @@ Web: charliemurry.github.io
 ## Current Research
 *see research page for more details*  
 
-**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION*  
+**[Market Structure and Competition in Airline Markets (Jan. 2021)](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION**  
 accepted at *Journal of Political Economy*  
 (with Federico Ciliberto and Elie Tamer)  
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*
 
-**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_nov2018.pdf)**  
+**[Price Discrimination in International Airline Markets (Feb. 2021)](http://charliemurry.github.io/files/airline_pd_feb2021.pdf)**  
 (with Gaurab Aryal and Jonathan W. Williams)  
-**Summary:** *Using a model of dynamic pricing and consumer screening, we estimate that incomplete information in airline pricing leads to a 20% gap between current welfare and first-best welfare.*
+**Summary:** *We estimate a model price discrimination and dynamic pricing of a monoply airline. The ability to screen passengers across cabins every period increases total surplus by 35% relative to choosing only one price per period, with both the airline and passengers benefiting. However, further discrimination based on passenger’s reason to traveling improve airline surplus at the expense of total efficiency. We also find that the current pricing practice yields approximately 89% of the first-best welfare. The source of this inefficiency arises mostly from dynamic uncertainty about demand, not private information about passenger valuations.*
 
-**The Evolution of Market Power in the US Auto Industry**  
+**The Evolution of Market Power in the US Auto Industry (in progress)**   
 (with Paul Grieco and Ali Yurukoglu)  
 **Summary:** *Markups in the Auto Industry gradually decreased over the last 40 years, even though prices have risen substantially.*
 
-**[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)**  
+**[Local Effects of Franchise Contract Regulations (Jan. 2020)](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)**  
 (with Peter Newberry)  
 **Summary:** *States that have laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
 
-**[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf) NEW PAPER!!**  
+**[The Price Theory and Empirics of Inventory Management (Jan. 2021)](http://charliemurry.github.io/files/inventory_Jan2021.pdf)**  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 **Summary:** *Inventory management can explain price dispersion because intermediaries/retailers adjust prices to manage inventory. We propose an equilibrium search model and calibrate it to data from the used car industry. Price dispersion generated from inventory management represents roughly 5 to 45 percent of observed price dispersion.*  

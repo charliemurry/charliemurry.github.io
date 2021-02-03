@@ -12,7 +12,7 @@ author_profile: true
 
 ### Publications and Accepted Manuscripts
 
-[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020. NEW VERSION!   
+[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020.     
 (with Federico Ciliberto and Elie Tamer)  
 conditionally accepted @ *Journal of Political Economy*  
 [Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
@@ -38,10 +38,10 @@ Handbook on the Economics of Retail and Distribution Emek Basker (ed.), Edward E
 
 ### Completed papers in the review process
 
-[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.  
+[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf), 2017.   
 Revision requested @ *AEJ: Microeconomics*  
 
-​[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_nov2018.pdf), 2019.  
+​[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_feb2021.pdf), 2021.  
 (with Gaurab Aryal and Jonathan W. Williams)  
 Reject&R @ *American Economic Review*  
 [slides](/files/airline_pd_nov2018_slides.pdf)  
@@ -50,8 +50,9 @@ Reject&R @ *American Economic Review*
 (with Peter Newberry)  
 Revision requested from *The Journal of Law and Economics*  
 
-[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)  
-(with Fei Li, Can Tian, and Yiyi Zhou)  
+[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf), 2021.    
+(with Fei Li, Can Tian, and Yiyi Zhou)   
+submitted   
 
 
 ### Drafts and Ongoing Projects
