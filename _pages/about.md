@@ -24,7 +24,7 @@ Web: charliemurry.github.io
 ## Current Research
 *see research page for more details*  
 
-**[Market Structure and Competition in Airline Markets (Jan. 2021)](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  *NEW VERSION**  
+**[Market Structure and Competition in Airline Markets (Oct. 2020)](http://charliemurry.github.io/files/CMT_Oct2020.pdf)**  
 accepted at *Journal of Political Economy*  
 (with Federico Ciliberto and Elie Tamer)  
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*
