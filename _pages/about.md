@@ -29,7 +29,7 @@ accepted at *Journal of Political Economy*
 (with Federico Ciliberto and Elie Tamer)  
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*
 
-**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_feb2021.pdf)** (Feb. 2021)]  
+**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_feb2021.pdf)** (Feb. 2021)  
 (with Gaurab Aryal and Jonathan W. Williams)  
 **Summary:** *We estimate a model price discrimination and dynamic pricing of a monoply airline. The ability to screen passengers across cabins every period increases total surplus by 35% relative to choosing only one price per period, with both the airline and passengers benefiting. However, further discrimination based on passenger’s reason to traveling improve airline surplus at the expense of total efficiency. We also find that the current pricing practice yields approximately 89% of the first-best welfare. The source of this inefficiency arises mostly from dynamic uncertainty about demand, not private information about passenger valuations.*
 
