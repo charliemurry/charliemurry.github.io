@@ -43,7 +43,6 @@ Revision requested @ *AEJ: Microeconomics*
 
 ​[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_feb2021.pdf), 2021.  
 (with Gaurab Aryal and Jonathan W. Williams)  
-Reject&R @ *American Economic Review*  
 [slides](/files/airline_pd_nov2018_slides.pdf)  
 
 [Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf), 2020.  
