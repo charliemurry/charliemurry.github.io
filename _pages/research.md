@@ -14,7 +14,7 @@ author_profile: true
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf), 2020.**     
 (with Federico Ciliberto and Elie Tamer)  
-conditionally accepted @ *Journal of Political Economy*  
+forthcoming @ *Journal of Political Economy*  
 [Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
 
 **[Intermediaries and product quality in used car markets.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1756-2171.12344)**  
