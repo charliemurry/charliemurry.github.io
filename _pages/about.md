@@ -11,14 +11,15 @@ redirect_from:
 
 I am currently an Assistant Professor of Economics and Wieler Family Assistant Professor in the Morrissey College of Arts and Sciences at [Boston College](https://www.bc.edu/bc-web/schools/mcas/departments/economics.html/) in Chestnut Hill, MA, USA. My research interests are in industrial organization and antitrust.   
 
-[curriculum vitae](http://charliemurry.github.io/files/charlesmurrycv.pdf)  
+**[curriculum vitae](http://charliemurry.github.io/files/charlesmurrycv.pdf)**  
 
 Boston College Economics  
 324 Maloney Hall  
 Chestnut Hill, MA  
-Tel: 617-552-6026  
-Email: charles.murry@bc.edu  
-Web: charliemurry.github.io  
+
+**Tel:** 617-552-6026  
+**Email:** charles.murry@bc.edu  
+**Web:** charliemurry.github.io  
 
 
 ## Current Research
