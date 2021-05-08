@@ -24,7 +24,7 @@ Web: charliemurry.github.io
 ## Current Research
 *see research page for more details*  
 
-**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf)** (Oct. 2020)   
+**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf)** (Oct. 2020)   
 accepted at *Journal of Political Economy*  
 (with Federico Ciliberto and Elie Tamer)  
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*
@@ -37,10 +37,13 @@ accepted at *Journal of Political Economy*
 (with Paul Grieco and Ali Yurukoglu)  
 **Summary:** *Markups in the Auto Industry gradually decreased over the last 40 years, even though prices have risen substantially.*
 
-**[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_jan2019.pdf)** (Jan. 2020)  
+**[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_March2021.pdf)** (Jan. 2020)  
 (with Peter Newberry)  
 **Summary:** *States that have laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
 
 **[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)** (Jan. 2021)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 **Summary:** *Inventory management can explain price dispersion because intermediaries/retailers adjust prices to manage inventory. We propose an equilibrium search model and calibrate it to data from the used car industry. Price dispersion generated from inventory management represents roughly 5 to 45 percent of observed price dispersion.*  
+
+**Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets**  
+(with Paul Grieco, Joris Pinkse, Stephan Sagl)  

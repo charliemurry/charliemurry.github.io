@@ -12,7 +12,7 @@ author_profile: true
 
 ### Publications and Accepted Manuscripts
 
-**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_Oct2020.pdf), 2020.**     
+**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf), 2020.**     
 (with Federico Ciliberto and Elie Tamer)  
 conditionally accepted @ *Journal of Political Economy*  
 [Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
