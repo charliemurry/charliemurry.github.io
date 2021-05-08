@@ -50,8 +50,7 @@ Revision requested @ *AEJ: Microeconomics*
 Revision requested from *The Journal of Law and Economics*  
 
 **[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)**, 2021.    
-(with Fei Li, Can Tian, and Yiyi Zhou)   
-submitted   
+(with Fei Li, Can Tian, and Yiyi Zhou)      
 
 
 ### Drafts and Ongoing Projects
