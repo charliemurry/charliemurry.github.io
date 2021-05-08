@@ -23,7 +23,7 @@ Chestnut Hill, MA
 
 
 ## Current Research
-*see research page for more details*  
+*see [research](http://charliemurry.github.io/research/) page for publications*  
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf)** (Oct. 2020)   
 accepted at *Journal of Political Economy*  
