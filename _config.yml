@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Murry"
+title                    : "Charlie Murry"
 title_separator          : "-"
 name                     : &name "Charlie Murry"
 description              : &description "Economist at Boston College"
