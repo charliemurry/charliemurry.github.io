@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an Assistant Professor of Economics and Wieler Family Assistant Professor in the Morrissey College of Arts and Sciences at [Boston College](https://www.bc.edu/bc-web/schools/mcas/departments/economics.html/) in Chestnut Hill, MA, USA. My research interests are empirical applications in industrial organization and antitrust.   
+I am currently an Assistant Professor of Economics and Wieler Family Assistant Professor in the Morrissey College of Arts and Sciences at [Boston College](https://www.bc.edu/bc-web/schools/mcas/departments/economics.html/) in Chestnut Hill, MA, USA. My research interests are empirical applications in industrial organization and antitrust. I have a particular interest in automobile markets.   
 
 **[curriculum vitae](http://charliemurry.github.io/files/charlesmurrycv.pdf)**  
 
