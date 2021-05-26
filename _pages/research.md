@@ -64,10 +64,13 @@ Revision requested from *The Journal of Law and Economics*
 <br>
 <br>
 
+
 ### Drafts and Ongoing Projects
 
 ​**The Evolution of Market Power in the US Auto Industry**  
 (with Paul Grieco and Ali Yurukoglu)  
+[slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf)
+
 
 <br>
 **Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets**  

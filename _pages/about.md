@@ -36,7 +36,8 @@ accepted at *Journal of Political Economy*
 
 **The Evolution of Market Power in the US Auto Industry (in progress)**   
 (with Paul Grieco and Ali Yurukoglu)  
-**Summary:** *Markups in the Auto Industry gradually decreased over the last 40 years, even though prices have risen substantially.*
+**Summary:** *Markups in the U.S. automobile industry gradually decreased over the last 40 years, even though prices rose substantially. Consumer surplus rose dramatically mostly due to increases in product quality and improvements in marginal costs.*  
+[slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf)
 
 **[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_March2021.pdf)** (Jan. 2020)  
 (with Peter Newberry)  
