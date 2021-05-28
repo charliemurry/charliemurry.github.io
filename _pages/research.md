@@ -73,7 +73,7 @@ Revision requested from *The Journal of Law and Economics*
 
 
 <br>
-**Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets**  
+**[Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets](http://charliemurry.github.io/files/like-blp.pdf)** (May 2021)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 
 <br>

@@ -47,5 +47,6 @@ accepted at *Journal of Political Economy*
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 **Summary:** *Inventory management can explain price dispersion because intermediaries/retailers adjust prices to manage inventory. We propose an equilibrium search model and calibrate it to data from the used car industry. Price dispersion generated from inventory management represents roughly 5 to 45 percent of observed price dispersion.*  
 
-**Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets**  
+**[Efficient Estimation of Random Coefficients Demand Models using Product and Consumer Datasets](http://charliemurry.github.io/files/like-blp.pdf)** (May 2021)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
+**Summary:** *We propose a mixed-data likelihood estimator (MDLE) for a mixed logit demand system which makes use of product-level and consumer-level data while allowing for price endogeneity. The estimator is efficient compared to the GMM approach commonly used by applied researchers (e.g. Petrin, 2002; Berry, Levinsohn and Pakes, 2004). We show how to conduct inference on general functions of the model parameters, including elasticities. We benchmark our likelihood-based estimator to the GMM approach with a Monte Carlo exercise and find superior performance in finite samples.*  
