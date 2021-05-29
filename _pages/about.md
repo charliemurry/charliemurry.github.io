@@ -41,6 +41,7 @@ revisions requested from *Review of Economic Studies*
 [slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf)
 
 **[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_March2021.pdf)** (Jan. 2020)  
+resubmitted to *Journal of Law and Economics*  
 (with Peter Newberry)  
 **Summary:** *States with laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
 
