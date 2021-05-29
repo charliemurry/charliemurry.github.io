@@ -56,10 +56,10 @@ revisions requested from *Review of Economic Studies*
 <br>
 **[Local Effects of Franchise Contract Regulations](http://charliemurry.github.io/files/termination_laws_March2021.pdf)**, 2020.  
 (with Peter Newberry)  
-Revision requested from *The Journal of Law and Economics*  
+Resubmitted to *The Journal of Law and Economics*  
 
 <br>
-**[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf)**, 2021.    
+[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf), 2021.    
 (with Fei Li, Can Tian, and Yiyi Zhou)      
 
 <br>
