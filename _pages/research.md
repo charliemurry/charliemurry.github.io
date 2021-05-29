@@ -49,6 +49,7 @@ Revision requested @ *AEJ: Microeconomics*
 
 <br>
 ​**[Price Discrimination in International Airline Markets](http://charliemurry.github.io/files/airline_pd_feb2021.pdf)**, 2021.  
+revisions requested from *Review of Economic Studies*  
 (with Gaurab Aryal and Jonathan W. Williams)  
 [slides](/files/airline_pd_nov2018_slides.pdf)  
 
