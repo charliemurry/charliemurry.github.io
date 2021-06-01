@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-### Publications and Accepted Manuscripts
+## Publications and Accepted Manuscripts
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf), 2020.**     
 (with Federico Ciliberto and Elie Tamer)  
@@ -42,7 +42,7 @@ forthcoming @ *Journal of Political Economy*
 <br>
 <br>
 
-### Completed papers in the review process
+## Completed papers in the review process
 
 **[Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](http://charliemurry.github.io/files/car_ads_vertical_2017.pdf)**, 2017.   
 Revision requested @ *AEJ: Microeconomics*  
@@ -66,7 +66,7 @@ Resubmitted to *The Journal of Law and Economics*
 <br>
 
 
-### Drafts and Ongoing Projects
+## Drafts and Ongoing Projects
 
 ​**The Evolution of Market Power in the US Auto Industry**  
 (with Paul Grieco and Ali Yurukoglu)  
