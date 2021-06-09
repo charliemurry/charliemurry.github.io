@@ -59,11 +59,12 @@ revisions requested from *Review of Economic Studies*
 Resubmitted to *The Journal of Law and Economics*  
 
 <br>
-[The Price Theory and Empirics of Inventory Management](http://charliemurry.github.io/files/inventory_Jan2021.pdf), 2021.    
+[Inventory Management in Markets with Search Frictions](http://charliemurry.github.io/files/inventory_June2021.pdf), 2021.    
 (with Fei Li, Can Tian, and Yiyi Zhou)      
 
 <br>
 <br>
+
 
 
 ## Drafts and Ongoing Projects
