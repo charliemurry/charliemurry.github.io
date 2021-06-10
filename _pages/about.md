@@ -52,7 +52,8 @@ resubmitted to *Journal of Law and Economics*
 (with Peter Newberry)  
 **Summary:** *States with laws that restrict franchisors from terminating franchise contracts have fewer franchises.*
 
+
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf)** (Oct. 2020)   
-accepted at *Journal of Political Economy*  
 (with Federico Ciliberto and Elie Tamer)  
+*Journal of Political Economy* vol. 129, no. 11 (2021). 
 **Summary:** *We develop a methodology to estimate static games of entry and pricing and quantify the price and product repositioning effects of an airline merger. We find that selection biases demand estimates, and product repositioning after a merger complicates merger analysis.*

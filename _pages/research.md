@@ -12,13 +12,13 @@ author_profile: true
 
 ## Publications and Accepted Manuscripts
 
-**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf), 2020.**     
+**[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf)**     
 (with Federico Ciliberto and Elie Tamer)  
-forthcoming @ *Journal of Political Economy*  
+*Journal of Political Economy*  vol. 129, no. 11 (2021).
 [Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
 
 <br>
-**[Intermediaries and product quality in used car markets.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1756-2171.12344)**  
+**[Intermediaries and product quality in used car markets](https://onlinelibrary.wiley.com/doi/abs/10.1111/1756-2171.12344)**  
 (with Gary Biglaiser, Fei Li, and Yiyi Zhou)  
 *The RAND Journal of Economics*, 51, no. 3 (2020): 905-933.  
 [Working Paper](http://charliemurry.github.io/files/cardealers_2020.pdf)  
