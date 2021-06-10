@@ -14,7 +14,7 @@ author_profile: true
 
 **[Market Structure and Competition in Airline Markets](http://charliemurry.github.io/files/CMT_final_small.pdf)**     
 (with Federico Ciliberto and Elie Tamer)  
-*Journal of Political Economy*  vol. 129, no. 11 (2021).
+*Journal of Political Economy*  vol. 129, no. 11 (2021).   
 [Appendix](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
 
 <br>
