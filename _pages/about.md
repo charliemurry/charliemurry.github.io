@@ -33,7 +33,7 @@ revisions requested from *Review of Economic Studies*
 (with Gaurab Aryal and Jonathan W. Williams)  
 **Summary:** *We estimate a model price discrimination and dynamic pricing of a monoply airline. The ability to screen passengers across cabins every period increases total surplus by 35% relative to choosing only one price per period, with both the airline and passengers benefiting. However, further discrimination based on passenger’s reason to traveling improve airline surplus at the expense of total efficiency. We also find that the current pricing practice yields approximately 89% of the first-best welfare. The source of this inefficiency arises mostly from dynamic uncertainty about demand, not private information about passenger valuations.*
 
-**[The Evolution of Market Power in the US Auto Industry](http://charliemurry.github.io/files/CarMarkups_June2021.pdf)**     
+**[The Evolution of Market Power in the US Auto Industry](http://charliemurry.github.io/files/CarMarkups_June2021.pdf)** (June 2021)    
 (with Paul Grieco and Ali Yurukoglu)  
 **Summary:** *Markups in the U.S. automobile industry gradually decreased over the last 40 years, even though prices rose substantially. Consumer surplus rose dramatically mostly due to increases in product quality and improvements in marginal costs.*  
 <!-- [slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf) -->
