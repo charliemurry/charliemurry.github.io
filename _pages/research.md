@@ -69,9 +69,9 @@ Resubmitted to *The Journal of Law and Economics*
 
 ## Drafts and Ongoing Projects
 
-​**The Evolution of Market Power in the US Auto Industry**  
+**[The Evolution of Market Power in the US Auto Industry](http://charliemurry.github.io/files/CarMarkups_June2021.pdf)**  
 (with Paul Grieco and Ali Yurukoglu)  
-[slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf)
+<!-- [slides](http://charliemurry.github.io/files/carMarkupsSlides.pdf) -->
 
 
 <br>
