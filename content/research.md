@@ -17,7 +17,7 @@ title = "Research"
 [https://doi.org/10.1111/iere.12669](https://doi.org/10.1111/iere.12669)
 
 
-1. [Price Discrimination in International Airline Markets](/published_papers/ACMW_2024.pdf)  
+1. [Price Discrimination in International Airline Markets](/published_papers/ACMW_2023.pdf)  
 (with Gaurab Aryal and Jonathan W. Williams)   
 ***Review of Economic Studies***, Volume 91, Issue 2, March 2024, Pages 641–689.    
 [https://doi.org/10.1093/restud/rdad037](https://doi.org/10.1093/restud/rdad037)  
