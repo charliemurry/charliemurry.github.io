@@ -6,6 +6,7 @@ enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
+
 [params]
   author = "Charles Murry"
   description = "Economist at Boston College"
