@@ -57,14 +57,16 @@ title = "Research"
 Revisions requested from *Econometrica*  
 [NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
 
+[The Benefits of Bundling Demand in K-12 Broadband Procurement](https://www.nber.org/papers/w33498)  
+NBER Working Paper w33498  
+(with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
+[Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497).  
 
 <br>
 
 #### Drafts and Ongoing Projects
 
-[The Benefits of Bundling Demand in K-12 Broadband Procurement](/working_papers/bundling_Feb25.pdf)  
-(with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
-[Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497).  
+
 
 Designing Procurement for K-12 Broadband Internet in the Presence of Cost Complementarities
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
