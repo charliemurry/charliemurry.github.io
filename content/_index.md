@@ -33,7 +33,8 @@ Revisions requested from *Econometrica*
 
 ---
 
-[**The Benefits of Bundling Demand in K-12 Broadband Procurement**](/working_papers/bundling_Feb25.pdf)  
+[**The Benefits of Bundling Demand in K-12 Broadband Procurement**](https://www.nber.org/papers/w33498)  
+*NBER Working Paper \#33498*  
 [arXiv](https://arxiv.org/abs/2402.07277)  
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
 [Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497)  
