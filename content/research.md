@@ -52,14 +52,15 @@ title = "Research"
 
 #### Completed papers in the review process 
 
-[Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2024)
+[Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2025)
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 Revisions requested from *Econometrica*  
 [NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
 
 [The Benefits of Bundling Demand in K-12 Broadband Procurement](https://www.nber.org/papers/w33498)  
-NBER Working Paper w33498  
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
+NBER Working Paper w33498  
+Revisions requested from *AEJ: Micro*  
 [Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497).  
 
 <br>
