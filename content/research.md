@@ -72,8 +72,8 @@ Revisions requested from *AEJ: Micro*
 Designing Procurement for K-12 Broadband Internet in the Presence of Cost Complementarities
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
 
-Dynamic Pricing and Strategic Delay in the Market for Used Cars  
-(with Karl Schurter)  
+Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions  
+(with Fei Li, Can Tian, Yiyi Zhou)  
 
 
 <br>

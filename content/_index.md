@@ -19,7 +19,7 @@ My main fields of research are empirical industrial organization and antitrust e
 [**Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data**](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2024)
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 Revisions requested from *Econometrica*  
-[NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
+[*NBER Working Paper w33397*](https://www.nber.org/papers/w33397)  
 [Julia Package](https://nittanylion.github.io/Grumps.jl/dev/) documentation, or ```Pkg.add("Grumps")``` in Julia  
 *Previous Version:* [Conformant and Efficient Estimation of Discrete Choice Demand Models](/working_papers/like-blp.pdf) (May 2023)  
 <details>
@@ -35,7 +35,7 @@ Revisions requested from *Econometrica*
 
 [**The Benefits of Bundling Demand in K-12 Broadband Procurement**](https://www.nber.org/papers/w33498)  
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
-[*NBER Working Paper \#33498*](https://www.nber.org/papers/w33498) 
+[*NBER Working Paper w33498*](https://www.nber.org/papers/w33498)  
 Revisions requested at *AEJ: Micro*  
 <!-- [arXiv](https://arxiv.org/abs/2402.07277)   -->
 [Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497)  
@@ -44,6 +44,22 @@ Revisions requested at *AEJ: Micro*
 <summary>Summary</summary>
 
 - Geographically bundling schools in broadband procurement had a large effect on prices and bandwidth. We show that these outcomes were due to an exposure problem in broadband procurement. The bundling program saved schools at least as much as current broadband subsidies, and revealed preference of the schools indicates large welfare gains due to the bundling program. 
+
+</details>
+
+<br>
+
+---
+
+
+**Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions**  
+(with Fei Li, Can Tian, Yiyi Zhou)  
+Draft Coming Soon.
+
+<details>
+<summary>Summary</summary>
+
+- We estimate an equilibrium model of dealer and private trade in used cars. The results capture import features of the market, like the dealer premium and spatial trade patterns. We use the estimated model to quantify the value of intermediated trade. 
 
 </details>
 
