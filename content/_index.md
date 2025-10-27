@@ -52,14 +52,14 @@ Revisions requested at *AEJ: Micro*
 ---
 
 
-**Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions**  
+[**Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions**](/working_papers/w34136.pdf) (8/2025)  
 (with Fei Li, Can Tian, Yiyi Zhou)  
-Draft Coming Soon.
+[NBER Working Paper \#34136](https://www.nber.org/papers/w34136)
 
 <details>
 <summary>Summary</summary>
 
-- We estimate an equilibrium model of dealer and private trade in used cars. The results capture import features of the market, like the dealer premium and spatial trade patterns. We use the estimated model to quantify the value of intermediated trade. 
+- We estimate an equilibrium model of dealer and private trade in used cars. The results capture import features of the market, including the dealer premium and spatial trade patterns. We use the estimated model to quantify the value of intermediated trade. 
 
 </details>
 
