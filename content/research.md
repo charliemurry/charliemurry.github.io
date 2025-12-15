@@ -4,6 +4,12 @@ title = "Research"
 
 #### Publications and Accepted Manuscripts
 
+1. [The Benefits of Bundling Demand in K-12 Broadband Procurement](https://www.nber.org/papers/w33498)  
+(with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
+NBER Working Paper w33498  
+Conditionally accepted at *AEJ: Microeconomics*  
+[Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497).  
+
 1. [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
 (with Paul Grieco and Ali Yurukoglu)  
 ***The Quarterly Journal of Economics*** Volume 139, Issue 2, May 2024, Pages 1201–1253.      
@@ -57,23 +63,19 @@ title = "Research"
 Revisions requested from *Econometrica*  
 [NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
 
-[The Benefits of Bundling Demand in K-12 Broadband Procurement](https://www.nber.org/papers/w33498)  
-(with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
-NBER Working Paper w33498  
-Revisions requested from *AEJ: Micro*  
-[Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497).  
+Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions  
+(with Fei Li, Can Tian, Yiyi Zhou)  
+[NBER Working Paper \#34136](https://www.nber.org/papers/w34136)
 
 <br>
 
 #### Drafts and Ongoing Projects
 
-
-
 Designing Procurement for K-12 Broadband Internet in the Presence of Cost Complementarities
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
 
-Intermediaries in Decentralized Markets: Evidence from Used-Car Transactions  
-(with Fei Li, Can Tian, Yiyi Zhou)  
+Competition-for-the-field and limited sourcing in medical device procurement  
+(with Julie Mortimer)  
 
 
 <br>

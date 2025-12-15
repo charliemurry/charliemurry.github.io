@@ -36,7 +36,7 @@ Revisions requested from *Econometrica*
 [**The Benefits of Bundling Demand in K-12 Broadband Procurement**](https://www.nber.org/papers/w33498)  
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
 [*NBER Working Paper w33498*](https://www.nber.org/papers/w33498)  
-Revisions requested at *AEJ: Micro*  
+Conditionally Accepted at *AEJ: Micro*  
 <!-- [arXiv](https://arxiv.org/abs/2402.07277)   -->
 [Proceedings of **EC'24**](https://dl.acm.org/doi/10.1145/3670865.3673497)  
 
